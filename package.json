@@ -27,7 +27,7 @@
     "mysql",
     "api-rest"
   ],
-  "author": "",
+  "author": "Erico Alves",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^6.0.0",
